@@ -145,13 +145,7 @@ function App() {
             <Route path="/admin/reviews" element={<ProductReviews />} />
           </Route>
           {/* <Route exact path="/cart" element={<Cart />} /> */}
-          <Route
-            element={
-              window.location.pathname === "/process/payment" ? null : (
-                <NotFound />
-              )
-            }
-          />
+          
         </Routes>
         <Footer />
       </BrowserRouter>
