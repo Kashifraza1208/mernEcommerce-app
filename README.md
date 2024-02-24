@@ -1,5 +1,5 @@
 Hi! My name is **Kashif Raza**, I have created this basic mern stack ecommerce project for learning purpose .
-project hosted url - https://ecommerce-mkr.onrender.com/
+# hosted url - https://ecommerce-mkr.onrender.com/
 
 Description:
 Crafted a comprehensive ecommerce platform utilizing React, Node.js, Express, MongoDB, Cloudinary, and Stripe API. This dynamic application seamlessly combines user-friendly design with robust functionalities, including secure authentication, payment integration, and admin management.
