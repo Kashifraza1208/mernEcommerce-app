@@ -17,9 +17,36 @@ Utilized MongoDB Atlas to store and manage data, ensuring scalability, reliabili
 Skills Utilized:
 React, Node.js, Express, MongoDB, Cloudinary, Stripe API, JWT Authentication, REST API, Admin Functionalities, Database Management, Ecommerce Development, Responsive Design.
 
-# Install Dependencies
+## Usage
 
-**For Start the project** - `npm install`
+1. Clone the repository to your local machine or vs code.
+   ```bash
+   git clone https://github.com/Kashifraza1208/To-do-List.git
+   ```
+
+2. Install NPM in main directory                                   -------> for backend
+   ```bash
+   1. npm install
+   2. npm run dev
+   ```
+3. Navigate to frontend directory using cd .\frontend\             -------> for frontend
+   ```bash
+   1. npm install
+   2. npm start
+   
+
+4. Open your browser and navigate to `http://localhost:3000` to view the Todo App.
+
+## Technologies Used
+
+- React
+- Node
+- Express
+- MongoDB
+- Bootstrap
+- Redux
+- HTML
+- CSS
 
 **Must read database.js file** 
 
